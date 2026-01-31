@@ -25,3 +25,5 @@ sudo lsof -i :80
 ```
 
 ![image alt](https://github.com/DMayrant/3-Tier-Network/blob/main/3%20tier%20Web.jpeg?raw=true)
+
+![image alt](https://github.com/DMayrant/3-Tier-Network/blob/main/Screenshot%202569-01-30%20at%2020.19.05.png?raw=true)
