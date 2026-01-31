@@ -24,3 +24,4 @@ sudo ss -tulpn | grep :80
 sudo lsof -i :80
 ```
 
+![image alt](https://github.com/DMayrant/3-Tier-Network/blob/main/3%20tier%20Web.jpeg?raw=true)
