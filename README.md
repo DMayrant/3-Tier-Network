@@ -21,8 +21,13 @@ curl -i http://localhost/init
 
 ```bash 
 sudo ss -tulpn | grep :80
-sudo lsof -i :80
 ```
+# Check port
+
+```bash
+lsof -i :<port>
+```
+
 
 ![image alt](https://github.com/DMayrant/3-Tier-Network/blob/main/3%20tier%20Web.jpeg?raw=true)
 
